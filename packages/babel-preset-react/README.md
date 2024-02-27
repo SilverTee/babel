@@ -12,6 +12,11 @@ Using npm:
 npm install --save-dev @babel/preset-react
 ```
 
+Using pnpm:
+```sh
+pnpm install --save-dev @babel/preset-react
+```
+
 or using yarn:
 
 ```sh
